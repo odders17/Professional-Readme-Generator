@@ -10,7 +10,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Your project description?",
+      message: "What is the application Requirements?",
       name: "description",
     },
     {
