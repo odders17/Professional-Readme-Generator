@@ -36,8 +36,8 @@ inquirer
 # Project Name
 * **Title:** ${response.projectname}
     
-## Installation
-* **Instructions for Installation:** ${response.installation}
+## Application Requirements
+* **The Application Criteria:** ${response.installation}
     
 ## Files
     
