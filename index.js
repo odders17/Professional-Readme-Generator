@@ -29,8 +29,29 @@ inquirer
         name: "account",
       },
   ])
-  .then((response) =>
-    response.confirm === response.account
-      ? console.log('Success!')
-      : console.log('You forgot your password already?!')
-  );
+  .then((response) => {
+       console.log("Success!",response);
+
+  const code = `
+# Project Name
+* **Title:** ${response.projectname}
+    
+## Installation
+* **Instructions for Installation:** ${response.installation}
+    
+## Files
+    
+* **The Included Files:**  ${response.files}
+   
+## Contributing
+   
+* **Repository Link for Github:** ${response.project}
+    
+## Contact Information
+    
+* **User Link for Github:** ${response.account}
+`
+fs.writeFile("README.md", code, (err) =>
+      err ? console.log(err) : console.log("Success!")
+    );
+  });

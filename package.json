@@ -1,5 +1,5 @@
 {
-  "name": "Professional-Readme-Genetator",
+  "name": "Professional-Readme-Generator",
   "version": "1.0.0",
   "description": "A command-line application that dynamically generates a professional readme",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/odders17/Professional-Readme-Genetator.git"
+    "url": "git+https://github.com/odders17/Professional-Readme-Generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/odders17/Professional-Readme-Genetator/issues"
+    "url": "https://github.com/odders17/Professional-Readme-Generator/issues"
   },
-  "homepage": "https://github.com/odders17/Professional-Readme-Genetator#readme",
+  "homepage": "https://github.com/odders17/Professional-Readme-Generator#readme",
   "dependencies": {
     "inquirer": "^8.1.2"
   }
