@@ -45,7 +45,7 @@ inquirer
    
 ## Contributing
    
-* **Repository Link for Github:** ${response.project}
+* **Repository Link for Live Page:** ${response.project}
     
 ## Contact Information
     

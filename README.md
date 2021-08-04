@@ -3,7 +3,7 @@
 * **Title:** Professional Readme Generator
     
 ## Installation
-* **Instructions for Installation:** undefined
+* **Instructions for Installation:** node index.js
     
 ## Files
     
@@ -11,8 +11,8 @@
    
 ## Contributing
    
-* **Repository Link for Github:** odders17 etc
+* **Repository Link for Github:** https://odders17.github.io/Professional-Readme-Generator/
     
 ## Contact Information
     
-* **User Link for Github:** odders17 etc
+* **User Link for Github:** https://github.com/odders17
