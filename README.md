@@ -3,7 +3,8 @@
 * **Title:** Professional Readme Generator
     
 ## Application Requirements
-* **The Application Criteria:** GIVEN a command-line application that accepts user input
+* **The Application Criteria:** 
+GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 WHEN I enter my project title
