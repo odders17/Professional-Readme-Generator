@@ -37,7 +37,7 @@ inquirer
 * **Title:** ${response.projectname}
     
 ## Application Requirements
-* **The Application Criteria:** ${response.installation}
+* **The Application Criteria:** ${response.description}
     
 ## Files
     
