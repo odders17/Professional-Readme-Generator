@@ -28,6 +28,11 @@ inquirer
         message: "What is your account information for Github",
         name: "account",
       },
+      {
+        type: "input",
+        message: "What is your link to Screencastify video",
+        name: "video",
+      },
   ])
   .then((response) => {
        console.log("Success!",response);
@@ -50,6 +55,8 @@ inquirer
 ## Contact Information
     
 * **User Link for Github:** ${response.account}
+
+* **User Link for Screencastify video:** ${response.video}
 `
 fs.writeFile("README.md", code, (err) =>
       err ? console.log(err) : console.log("Success!")
