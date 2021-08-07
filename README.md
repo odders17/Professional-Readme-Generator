@@ -18,3 +18,5 @@
 * **User Link for Github:** https://github.com/odders17
 
 * **User Link for Screencastify video:** https://drive.google.com/file/d/1Eq46dwIcbbcG7rF_3zHJZR0V0MesQdge/view
+
+![ScreencastifyVideo](./assets/ScreencastifyReadme.gif)
